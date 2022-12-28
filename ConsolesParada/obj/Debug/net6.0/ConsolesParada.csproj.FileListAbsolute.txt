@@ -1,0 +1,15 @@
+D:\IS32\ConsolesParada\ConsolesParada\bin\Debug\net6.0\ConsolesParada.exe
+D:\IS32\ConsolesParada\ConsolesParada\bin\Debug\net6.0\ConsolesParada.deps.json
+D:\IS32\ConsolesParada\ConsolesParada\bin\Debug\net6.0\ConsolesParada.runtimeconfig.json
+D:\IS32\ConsolesParada\ConsolesParada\bin\Debug\net6.0\ConsolesParada.dll
+D:\IS32\ConsolesParada\ConsolesParada\bin\Debug\net6.0\ConsolesParada.pdb
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ConsolesParada.csproj.AssemblyReference.cache
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ConsolesParada.GeneratedMSBuildEditorConfig.editorconfig
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ConsolesParada.AssemblyInfoInputs.cache
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ConsolesParada.AssemblyInfo.cs
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ConsolesParada.csproj.CoreCompileInputs.cache
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ConsolesParada.dll
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\refint\ConsolesParada.dll
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ConsolesParada.pdb
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ConsolesParada.genruntimeconfig.cache
+D:\IS32\ConsolesParada\ConsolesParada\obj\Debug\net6.0\ref\ConsolesParada.dll
